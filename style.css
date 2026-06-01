@@ -66,6 +66,7 @@
   
     animation: fadeIn 1s ease-in; 
   }
+ 
   
   
   .hero {
@@ -114,16 +115,7 @@
   .card:hover {
     transform: scale(1.05); 
   }
-  
-  
-  .preco {
-    display: block; 
-    margin-top: 15px;
-    font-weight: bold;
-    color: #22a8e6;
-    font-size: 1.2rem;
-  }
-  
+   
   
   
   @keyframes fadeIn {

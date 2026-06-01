@@ -40,7 +40,7 @@
   
   
   header h1 span {
-    color: #ffffff;
+    color: #000000;
   }
   
   nav a {
@@ -65,6 +65,9 @@
     padding: 20px;
   
     animation: fadeIn 1s ease-in; 
+  }
+  .btn {
+    background-color: #278ccf;
   }
   
   
@@ -141,5 +144,7 @@
     padding: 40px;
     color: #100c0c;
   }
-
+img{
+  padding: 2rem;
+}
   
